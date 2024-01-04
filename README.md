@@ -44,4 +44,4 @@ Para utilizar o programa, basta executar o arquivo `Main.java`. Isso iniciará a
 
 ## Observações
 
-O programa foi desenvolvido como exemplo educacional para demonstrar conceitos de orientação a objetos em Java, não refletindo necessariamente uma implementação realista de uma fazenda.
+O programa foi desenvolvido para demonstrar conceitos de orientação a objetos em Java, não refletindo necessariamente uma implementação realista de uma fazenda.
