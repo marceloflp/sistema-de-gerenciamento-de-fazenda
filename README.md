@@ -45,3 +45,14 @@ Para utilizar o programa, basta executar o arquivo `Main.java`. Isso iniciará a
 ## Observações
 
 O programa foi desenvolvido para demonstrar conceitos de orientação a objetos em Java, não refletindo necessariamente uma implementação realista de uma fazenda.
+
+## Como Utilizar
+
+Clone o repositório para sua máquina local:
+
+'''
+git clone https://github.com/marceloflp/sistema-de-gerenciamento-de-fazenda.git
+Abra o projeto em seu ambiente de desenvolvimento Java preferido.
+'''
+
+Execute a classe Main para testar as funcionalidades do sistema de gerenciamento da fazenda.
